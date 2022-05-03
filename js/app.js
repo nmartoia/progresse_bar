@@ -9,6 +9,6 @@ let truc = 0;
             update.style.maxWidth= truc+'px'
             truc++
        loop();
-   }, 100);
+   }, int*100);
  })();
  
